@@ -1,0 +1,23 @@
+total 136
+drwxr-xr-x 2 root root  4096 Apr  4 14:53 .
+drwxr-xr-x 7 root root   135 Apr  4 04:45 ..
+-rwxr--r-- 1 root root    32 Apr  4 06:35 0-hello_world
+-rw-r--r-- 1 root root 12288 Apr  4 05:59 .0-hello_world.swp
+-rwxr--r-- 1 root root    28 Apr  4 06:47 1-confused_smiley
+-rwxr--r-- 1 root root    28 Apr  4 07:01 2-hellofile
+-rwxr--r-- 1 root root    39 Apr  4 07:06 3-twofiles
+-rwxr--r-- 1 root root    35 Apr  4 07:10 4-lastlines
+-rwxr--r-- 1 root root    35 Apr  4 07:13 5-firstlines
+-rwxr--r-- 1 root root    36 Apr  4 07:40 6-third_line
+-rwxr--r-- 1 root root    79 Apr  4 14:31 7-file
+-rw-r--r-- 1 root root 12288 Apr  4 14:40 .7-file.swm
+-rw-r--r-- 1 root root 12288 Apr  4 14:20 .7-file.swn
+-rw-r--r-- 1 root root 12288 Apr  4 13:25 .7-file.swo
+-rw-r--r-- 1 root root 12288 Apr  4 07:49 .7-file.swp
+-rwxr--r-- 1 root root    36 Apr  4 14:53 8-cwd_state
+-rw------- 1 root root 12288 Apr  4 14:50 .8-cwd_state.swp
+-rw------- 1 root root 12288 Apr  4 05:18 .a0-hello_world.swp
+-rw-r--r-- 1 root root    38 Apr  4 13:34 \*\'Best
+-rwxr--r-- 1 root root   755 Apr  4 07:27 iacta
+-rw-r--r-- 1 root root     0 Apr  4 14:53 ls_cwd_content
+-rw-r--r-- 1 root root     2 Apr  4 04:56 README.md
