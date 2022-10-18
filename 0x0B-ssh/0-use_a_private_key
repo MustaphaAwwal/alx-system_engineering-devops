@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 # Connects to server 3.239.50.163
-ssh -i ~/.ssh/school ubuntu@3.239.50.163
+ssh -i ~/.ssh/school ubuntu@3.236.9.19
